@@ -1,7 +1,7 @@
 <div align="center"><h1>Meu Primeiro Projeto</h1></div>
 Este é o meu primeiro aplicativo Android, criado com a intenção de praticar o desenvolvimento e o suporte a múltiplos idiomas.
 
-Sobre o Aplicativo
+<div><h3>Sobre o Aplicativo</h3></div>
 Este aplicativo simples demonstra a capacidade de exibir textos em diferentes idiomas com base nas configurações de idioma do dispositivo do usuário.
 
 <div align="center">
@@ -17,12 +17,12 @@ Este aplicativo simples demonstra a capacidade de exibir textos em diferentes id
 
 Essa funcionalidade é útil para criar aplicativos que podem ser utilizados por pessoas de diferentes países e culturas, melhorando a experiência do usuário globalmente.
 
-Recursos Principais
+<div><h3>Recursos Principais</h3></div>
 Suporte a Múltiplos Idiomas: O aplicativo detecta e se adapta ao idioma do sistema operacional do dispositivo.
 
 Interface Limpa: Possui uma interface de usuário minimalista, focada na funcionalidade de alteração de idioma.
 
-Como Executar
+<div><h3>Como Executar</h3></div>
 Para executar este projeto, você pode abri-lo no Android Studio e executá-lo em um emulador ou em um dispositivo físico.
 
 Clone este repositório.
@@ -33,7 +33,7 @@ Conecte um dispositivo ou inicie um emulador.
 
 Clique no botão "Run" (Executar).
 
-Tecnologias Utilizadas
+<div><h3>Tecnologias Utilizadas</h3></div>
 Android Studio: Ambiente de desenvolvimento integrado (IDE) oficial para a plataforma Android.
 
 Kotlin ou Java: (Adicione a linguagem que você usou) para a lógica de programação.
