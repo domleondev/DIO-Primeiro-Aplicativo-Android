@@ -1,4 +1,4 @@
-<div align="center"><h1>Meu Primeiro Projeto</h1></div>
+<div align="center"><h1>Meu Primeiro Projeto Android</h1></div>
 Este é o meu primeiro aplicativo Android, criado com a intenção de praticar o desenvolvimento e o suporte a múltiplos idiomas.
 
 <div><h3>Sobre o Aplicativo</h3></div>
