@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrimeiraApp</string>
+    <string name="projectName">Mi Primer Proyecto</string>
+    <string name="nameGreating">Hola %1$s!</string>
+</resources>

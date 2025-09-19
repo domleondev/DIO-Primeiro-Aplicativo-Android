@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrimeroApp</string>
+    <string name="projectName">Meu Primeiro Projeto</string>
+    <string name="nameGreating">Olá %1$s!</string>
+</resources>
