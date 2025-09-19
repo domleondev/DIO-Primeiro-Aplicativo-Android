@@ -6,13 +6,13 @@ Este aplicativo simples demonstra a capacidade de exibir textos em diferentes id
 
 <div align="center">
 <p>Se o idioma do seu dispositivo for inglês, o título será "My First Project" e o texto principal será "Hello Android!".</p>
-<img src="https://github.com/user-attachments/assets/669b8ebf-6400-4df0-9382-deb45029d263" width="250" alt="Captura de tela 2025-09-19 143737" />
+<img src="https://github.com/user-attachments/assets/669b8ebf-6400-4df0-9382-deb45029d263" width="200" alt="Captura de tela 2025-09-19 143737" />
 
 <p>Se o idioma for português, o título e o texto serão "Meu Primeiro Projeto" e "Olá Android!", respectivamente.</p>
-<img src="https://github.com/user-attachments/assets/f61af06e-e660-47b5-a89e-c88e5fe7be64" width="250" alt="Captura de tela 2025-09-19 144624" />
+<img src="https://github.com/user-attachments/assets/f61af06e-e660-47b5-a89e-c88e5fe7be64" width="200" alt="Captura de tela 2025-09-19 144624" />
 
 <p>Se o idioma for espanhol, o título será "Mi Primer Proyecto" e o texto principal será "Hola Android!".</p>
-<img src="https://github.com/user-attachments/assets/499eec3f-b6da-4bb3-a3ab-b7492fee32c3" width="250" alt="Captura de tela 2025-09-19 144738" />
+<img src="https://github.com/user-attachments/assets/499eec3f-b6da-4bb3-a3ab-b7492fee32c3" width="200" alt="Captura de tela 2025-09-19 144738" />
 </div>
 
 Essa funcionalidade é útil para criar aplicativos que podem ser utilizados por pessoas de diferentes países e culturas, melhorando a experiência do usuário globalmente.
