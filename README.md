@@ -4,17 +4,16 @@ Este é o meu primeiro aplicativo Android, criado com a intenção de praticar o
 Sobre o Aplicativo
 Este aplicativo simples demonstra a capacidade de exibir textos em diferentes idiomas com base nas configurações de idioma do dispositivo do usuário.
 
-Se o idioma do seu dispositivo for inglês, o título será "My First Project" e o texto principal será "Hello Android!".
+<div align="center">
+<p>Se o idioma do seu dispositivo for inglês, o título será "My First Project" e o texto principal será "Hello Android!".</p>
+<img src="https://github.com/user-attachments/assets/669b8ebf-6400-4df0-9382-deb45029d263" width="250" alt="Captura de tela 2025-09-19 143737" />
 
-<img width="336" height="722" alt="Captura de tela 2025-09-19 143737" src="https://github.com/user-attachments/assets/669b8ebf-6400-4df0-9382-deb45029d263" />
+<p>Se o idioma for português, o título e o texto serão "Meu Primeiro Projeto" e "Olá Android!", respectivamente.</p>
+<img src="https://github.com/user-attachments/assets/f61af06e-e660-47b5-a89e-c88e5fe7be64" width="250" alt="Captura de tela 2025-09-19 144624" />
 
-Se o idioma for português, o título e o texto serão "Meu Primeiro Projeto" e "Olá Android!", respectivamente.
-
-<img width="339" height="722" alt="Captura de tela 2025-09-19 144624" src="https://github.com/user-attachments/assets/f61af06e-e660-47b5-a89e-c88e5fe7be64" />
-
-Se o idioma for espanhol, o título será "Mi Primer Proyecto" e o texto principal será "Hola Android!".
-
-<img width="337" height="716" alt="Captura de tela 2025-09-19 144738" src="https://github.com/user-attachments/assets/499eec3f-b6da-4bb3-a3ab-b7492fee32c3" />
+<p>Se o idioma for espanhol, o título será "Mi Primer Proyecto" e o texto principal será "Hola Android!".</p>
+<img src="https://github.com/user-attachments/assets/499eec3f-b6da-4bb3-a3ab-b7492fee32c3" width="250" alt="Captura de tela 2025-09-19 144738" />
+</div>
 
 Essa funcionalidade é útil para criar aplicativos que podem ser utilizados por pessoas de diferentes países e culturas, melhorando a experiência do usuário globalmente.
 
